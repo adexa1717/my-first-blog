@@ -1,4 +1,11 @@
+*{
+	box-sizing: border-box;
+}
 h1 a {
     color: #FCA205;
     font-family: 'Lobster';
+}
+body{
+	padding: 0 10%; 
+	max-width: 100%;
 }
